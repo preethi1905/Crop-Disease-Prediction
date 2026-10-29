@@ -67,11 +67,6 @@ XGBoost achieved the highest accuracy of 86.4%.
 - Comparative machine learning analysis
 - Performance evaluation using Accuracy, Precision, Recall, F1-Score, and Confusion Matrix
 
-## Team Members
-
-- Preethi P
-- Sankari G S
-- Yogashri S
 
 ## Future Enhancements
 
